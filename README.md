@@ -54,8 +54,6 @@ Network security is a critical aspect of modern IT infrastructure. Detecting and
 
 - `data/`: Contains the NSL-KDD dataset.
 - `notebooks/`: Jupyter notebooks with step-by-step code and explanations.
-- `src/`: Source code for data preprocessing, model training, and evaluation.
-- `reports/`: Generated reports and visualizations.
 - `README.md`: Project overview and setup instructions.
 
 ## Conclusion
