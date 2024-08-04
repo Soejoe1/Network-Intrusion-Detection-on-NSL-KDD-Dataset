@@ -53,7 +53,7 @@ Network security is a critical aspect of modern IT infrastructure. Detecting and
 ## Repository Structure
 
 - `data/`: Contains the NSL-KDD dataset.
-- `notebooks/`: Jupyter notebooks with step-by-step code and explanations.
+- `notebook/`: Jupyter notebook with code and explanations.
 - `README.md`: Project overview and setup instructions.
 
 ## Conclusion
